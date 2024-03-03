@@ -62,9 +62,9 @@ class TestResult:
                     text = value
                     break
 
-        # test = TestAi('cute cat wearing graduation cap and glasses reading a book, 3d art')
-        # try:
-        #     img_url = test.generate_ai_image()
-        # except Exception:
-        img_url = 'https://img.freepik.com/premium-photo/cat-with-glasses-book_840789-530.jpg'
+        test = TestAi('cute cat wearing graduation cap and glasses reading a book, 3d art')
+        try:
+            img_url = test.generate_ai_image()
+        except Exception:
+            img_url = 'https://img.freepik.com/premium-photo/cat-with-glasses-book_840789-530.jpg'
         return (text, img_url)
