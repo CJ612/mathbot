@@ -1,0 +1,66 @@
+2024-03-02 18:19:51 :: WARNING :: Функция <function load_from_json at 0x0000022603E93CE0> вызвала исключение Exception
+2024-03-02 18:19:51 :: WARNING :: Функция <function load_from_json at 0x0000022603E93CE0> вызвала исключение Exception
+2024-03-02 18:19:52 :: WARNING :: Функция <function load_from_json at 0x0000022603E93CE0> вызвала исключение Exception
+2024-03-02 18:19:56 :: WARNING :: Функция <function TestResult.show_result at 0x00000226055BF740> вызвала исключение Exception
+2024-03-02 18:22:15 :: WARNING :: Функция <function load_from_json at 0x000002881AC03CE0> вызвала исключение <attribute '__context__' of 'BaseException' objects>
+2024-03-02 18:24:52 :: WARNING :: Функция <function load_from_json at 0x000001E025203CE0> вызвала исключение <attribute '__cause__' of 'BaseException' objects>
+2024-03-02 18:29:14 :: WARNING :: Функция <function load_from_json at 0x000002970B823C40> вызвала исключение type
+2024-03-02 18:33:38 :: WARNING :: Функция <function load_from_json at 0x0000029F28F13C40> вызвала исключение: NoneType: None
+	-> 
+2024-03-02 18:33:40 :: WARNING :: Функция <function load_from_json at 0x0000029F28F13C40> вызвала исключение: NoneType: None
+	-> 
+2024-03-02 18:35:32 :: WARNING :: Функция <function load_from_json at 0x0000029F28F13C40> вызвала исключение: NoneType: None
+	-> 
+2024-03-02 18:36:23 :: WARNING :: Функция <function load_from_json at 0x000001C65B533C40> вызвала исключение
+	-> Traceback: "c:\Users\Admin\.projects\trainingbot\app\bot_logging.py:25" in wrapper
+2024-03-02 18:44:20 :: WARNING :: Функция <function load_from_json at 0x000001A4A46939C0> вызвала исключение FileNotFoundError
+2024-03-02 18:53:45 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 18:56:21 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 18:58:50 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 18:58:51 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 18:58:52 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 18:58:54 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 19:05:55 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 19:08:58 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 19:09:37 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 19:11:25 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 19:39:24 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 19:39:39 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 20:53:51 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 20:53:51 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 20:53:52 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 20:53:55 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 20:53:56 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 20:54:55 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 20:54:59 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 21:02:12 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 21:02:14 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 21:02:16 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 21:03:29 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 21:03:31 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 21:04:56 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 21:04:58 :: WARNING :: Функция load_from_json вызвала исключение FileNotFoundError
+2024-03-02 21:27:20 :: WARNING :: Функция wrapper вызвала исключение FileNotFoundError
+2024-03-02 21:27:22 :: WARNING :: Функция wrapper вызвала исключение FileNotFoundError
+2024-03-02 21:43:20 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 21:43:25 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:16:26 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:20:07 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:20:37 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:21:47 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:22:06 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:25:49 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:27:28 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:27:42 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:27:59 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:28:05 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:30:12 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundErrorу пользователя с id_6876968954
+2024-03-02 22:32:25 :: WARNING :: Функция wrapper_save_user_data вызвала исключение JSONDecodeError у пользователя с id_6876968954
+2024-03-02 22:33:48 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundError у пользователя с id_6876968954
+2024-03-02 22:34:57 :: WARNING :: Функция wrapper_save_user_data вызвала исключение FileNotFoundError у пользователя с id_6876968954
+2024-03-03 10:41:25 :: WARNING :: Функция send_answer вызвала исключение JSONDecodeError у пользователя с id_6876968954
+2024-03-03 10:43:16 :: WARNING :: Функция send_answer вызвала исключение JSONDecodeError у пользователя с id_6876968954
+2024-03-03 10:53:46 :: WARNING :: Функция send_welcome вызвала исключение JSONDecodeError у пользователя с id_6876968954
+2024-03-03 11:02:32 :: WARNING :: Функция send_answer вызвала исключение JSONDecodeError у пользователя с id_6876968954
+2024-03-03 11:26:20 :: WARNING :: Функция send_answer вызвала исключение JSONDecodeError у пользователя с id_6876968954
+2024-03-03 11:27:36 :: WARNING :: Функция send_welcome вызвала исключение JSONDecodeError у пользователя с id_6876968954
